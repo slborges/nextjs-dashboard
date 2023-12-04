@@ -6,8 +6,8 @@ export default function AcmeLogo() {
     <div
       className={`flex items-center leading-none text-white`}
     >
-      <GlobeAltIcon className="h-12 w-12 rotate-[15deg]" />
-      <p className="text-[20px] ml-3">Dashboard</p>
+      <GlobeAltIcon className="h-10 w-10 rotate-[15deg]" />
+      <p className="text-[1.2rem] ml-3">Dashboard</p>
     </div>
   );
 }
